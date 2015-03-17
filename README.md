@@ -15,6 +15,9 @@ The project follows some specification standards to assure the overall quality.
 ####Licence:
 It's released under the [Open Data Commons Open Database License v1.0](http://opendatacommons.org/licenses/odbl/1.0/)
 ####Contribution:
-Contributions are very welcome, the project has an easy tool that automatically checks the standard rules.
+Contributions are very welcome.  
+The project has some tools for simplify the file creation:
+ - check (bin/check.py dataFolder) it validates the standard rules.
+ - sort (bin/sort.py filename.txt) it outputs an alphabetically sorted list without duplications.
 
 [![Travis Ci](https://travis-ci.org/niklongstone/open-data-sample.svg?branch=master)](https://travis-ci.org/niklongstone/open-data-sample) 
