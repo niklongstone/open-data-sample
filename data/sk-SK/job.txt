@@ -1,0 +1,483 @@
+Account executive
+Account manager
+Administratívny pracovník, referent
+Advokát
+Advokátsky koncipient
+Animátor voľného času
+Anketár
+Aranžér, dekoratér
+Architekt
+Archivár, správca registratúry
+Art director
+Asistent
+Asistent audítora
+Asistent daňového poradcu
+Asistent učiteľa
+Asistent výživy
+Au-pair
+Audítor
+Autoelektrikár
+Autoklampiar
+Automechanik
+Automobilový priemysel
+Back office špecialista
+Balič
+Baníctvo, hutníctvo 
+Baník
+Banský technik
+Barman
+Brand manager
+Broker
+Brusič
+Business Intelligence Specialist
+Bytový architekt
+Čalúnnik
+Čašník
+Čašník - izbová služba
+Chemický inžinier
+Chemický laborant
+Chemik
+Choreograf
+Chovateľ, ošetrovateľ zvierat
+Chyžná
+Clinical Data Manager
+CNC programátor
+Coach
+Colník
+Colný deklarant
+Compliance špecialista
+Concierge
+Contract Manager
+Controller
+Copywriter
+Country manager/director
+CRM špecialista
+Cukrár
+Custody špecialista
+Daňový poradca
+Databázový administrátor
+Databázový analytik
+Dealer/Trader
+Dentálna hygienička
+Dispečer
+Disponent
+Dizajnér
+Dizajnér telekomunikačných sietí
+Dokladač tovaru/merchandiser
+Dopravný inžinier
+Drevársky inžinier
+Drevársky technik
+Drug Safety Specialist
+DTP operátor
+Editor
+Ekológ
+Ekonóm
+Ekonomický/finančný riaditeľ
+Elektrikár
+Elektromechanik
+Elektromontér
+Elektronik
+Elektrotechnický inžinier
+Elektrotechnik
+Energetik
+Environmentalista
+Event manager
+Exekútorský koncipient
+Expedient
+Facility manager
+Fakturant
+Farmaceut
+Farmaceutický laborant
+Finančný agent
+Finančný analytik
+Finančný manažér
+Finančný poradca
+Fotograf
+Frézar
+Fyzioterapeut
+Garderobier
+Gazdiná
+Generálny riaditeľ
+Generálny štátny radca
+Geológ
+Grafický dizajnér
+Grafik
+Hasič, záchranár
+Helpdesk operátor
+Hlavná sestra
+Hlavný radca
+Hlavný referent
+Hlavný štátny radca
+Hlavný účtovník
+Hosteska
+Hotelový nosič batožiny
+Houseman
+HR asistent
+HR Business Partner
+HR generalist
+HR Koordinátor
+Hutnícky inžinier
+Hutník
+Hygienik
+Hypotekárny špecialista
+ICT špecialista
+Inšpektor
+Inštalatér
+Inštruktor autoškoly
+Interný audítor
+Inžinier kvality
+Inžinier údržby
+IT analytik
+IT architekt
+IT konzultant
+IT manager
+IT projektový manažér
+IT tester
+IT/Technical Support Specialist
+Kaderník
+Kameraman
+Key account manager
+Klampiar, pokrývač
+Klientský pracovník
+Klinický psychológ
+Knihár
+Knihovník
+Konštruktér
+Kontrolór kvality
+Konzultant
+Koordinátor
+Koordinátor EÚ projektov
+Korektor
+Kozmetička
+Krajčír
+Krupiér
+Kuchár
+Kultúrny referent
+Kuriér
+Kvetinár
+Laborant
+Lakovník/lakovač
+Leasingový poradca
+Lekár
+Lektor
+Lektor, školiteľ
+Lesník
+Lesný inžinier
+Lesný technik
+Letecký mechanik
+Lodník
+Logistik
+Majster výroby
+Maliar, natierač
+Manažér bezpečnostnej služby
+Manažér call centra
+Manažér hotela
+Manažér inzercie
+Manažér kvality
+Manažér logistiky
+Manažér reklamačného oddelenia
+Manažér vozového parku
+Manažment kvality 
+Marketingový manažér
+Marketingový pracovník
+Marketingový riaditeľ
+Marketingový špecialista
+Masér
+Mäsiar
+Maskér, parochniar
+Mechanik chladiarenských zariadení
+Media buyer
+Media planner
+Medical advisor
+Medicínsky/farmaceutický reprezentant
+Metrológ
+Mikrobiológ
+Monitor klinických štúdií
+Montážnik/montér
+Murár
+Mzdový účtovník
+Nábytkár
+Nákupca
+Námorný dôstojník
+Nastavovač CNC strojov
+Nástrojár
+Normovač práce
+Notársky koncipient
+Novinár
+Obchodný analytik
+Obchodný manažér
+Obchodný referent
+Obchodný riaditeľ
+Obsluha čerpacej stanice
+Obsluha energetických zariadení
+Obuvník
+Očný optik
+Odborný predajca
+Odborný radca
+Odborný referent
+Odevný návrhár, konštruktér strihov
+Odhadca nehnuteľností
+Office manager 
+Opatrovateľ, osobný asistent
+Operátor stavebných strojov
+Operátor strojov a zariadení
+Opravár
+Optometrista
+Ortopedický technik
+Osobný bankár
+Osvetľovač
+Paralegal - študent práva
+Pedikérka, manikérka
+Pekár
+Personalista
+Personálny konzultant
+Personálny manažér
+Personálny riaditeľ
+Pilčík
+Pilot
+Pizzér
+Plánovač kvality
+Plánovač výroby
+Plavčík
+PLC programátor
+Podlahár, dláždič
+Poistný likvidátor
+Poistný matematik
+Poistný technik
+Poisťovací poradca
+Pokladník
+Policajt
+Poľnohospodársky inžinier, agronóm
+Poľnohospodársky technik
+Poľnohospodársky technológ
+Pomocný kuchár
+Pomocný pracovník
+Pôrodná asistentka
+Poštový doručovateľ
+Potravinársky inžinier
+Potravinársky technik
+Potravinársky technológ
+Potrubár
+PPC špecialista
+PR manažér
+Pracovník bezpečnostnej služby
+Pracovník platobného styku
+Pracovník pneuservisu
+Pracovník reklamačného oddelenia
+Pracovník rýchleho občerstvenia
+Pracovný psychológ
+Právnik
+Predajca leteniek/zájazdov
+Predák
+Predavač
+Prekladateľ
+Prevádzkar
+Prevádzkový manažér
+Priehradkový pracovník
+Prijímací technik
+Prípravár stavieb
+Privátny bankár
+Procesný inžinier
+Procesný manažér
+Produkčný
+Produktový manažér
+Produktový manažér - špecialista
+Programátor
+Projektant
+Projektový manažér
+Promotér
+Psychológ
+Radca
+Rádiologický asistent
+Realitný maklér
+Recepčná
+Recruiter, špecialista výberov
+Redaktor
+Referent
+Referent odbytu
+Referent platobných kariet
+Referent správy pohľadávok
+Referent správy poistenia
+Referent správy registrov
+Referent správy zmlúv
+Referent výberu poistného
+Referent zúčtovania
+Regionálny / Oblastný manažér
+Regulatory affairs manager
+Regulatory affairs specialist
+Revízna sestra
+Revízny farmaceut
+Revízny lekár
+Revízny technik
+Riaditeľ bezpečnostnej služby
+Riaditeľ call centra
+Riaditeľ IT
+Riaditeľ kvality a ISO
+Riaditeľ logistiky
+Riaditeľ odboru
+Riaditeľ pobočky
+Riaditeľ školy
+Riaditeľ vydavateľstva
+Riaditeľ zdravotníckeho zariadenia
+Risk manager
+Risk specialist
+Robotník
+Rozpočtár/kalkulant
+Rozpočtár/kalkulant stavieb
+Rušňovodič
+Sadrokartonista
+Samostatný radca
+Samostatný referent
+Sanitár
+Šéfkuchár
+Šéfredaktor
+Sekretárka
+SEO analytik
+Servisný inžinier
+Servisný technik
+Sestra
+Šička
+Skladník
+Sklár
+Školník
+Social media specialist
+Sociálny pracovník
+Softvérový inžinier
+Someliér
+Spa terapista
+Špecialista analýz a rozvoja prenosových sietí
+Špecialista fakturácie a platieb
+Špecialista finančných trhov
+Špecialista internej komunikácie
+Špecialista ISO
+Špecialista IT bezpečnosti
+Špecialista kontroly platiteľov poistného
+Špecialista marketingových analýz
+Špecialista modelovania sietí
+Špecialista nákupu zdravotnej starostlivosti
+Špecialista odmeňovania a benefitov
+Špecialista optimalizácie rádiovej siete
+Špecialista OSS/BSS
+Špecialista plánovania rádiovej siete
+Špecialista podporných a zdravotných činností
+Špecialista podpory zákazníkov
+Špecialista pohľadávok
+Špecialista pre vzdelávanie
+Špecialista prevádzky sietí a služieb
+Špecialista reportingu
+Špecialista roamingu
+Špecialista rozvoja spojovacej siete
+Špecialista stratégie siete
+Špecialista testovania koncových zariadení
+Špecialista verejného obstarávania
+Špecialista vývoja produktov
+Špecialista vývoja programov zdravia
+Špecialista vývoja telekomunikačných produktov
+Špecialista vývoja telekomunikačných služieb
+Špecialista zaistenia
+Špeciálny pedagóg
+Špeditér
+Športový tréner
+Správca budov
+Správca informačného systému
+Správca počítačovej siete
+Správca ubytovacieho zariadenia
+Sprievodca v cestovnom ruchu
+Statik
+Štatistik
+Štátny radca
+Stavač scénických dekorácií
+Stavbyvedúci
+Stavebný dozor
+Stavebný inžinier
+Stavebný majster
+Stavebný technik
+Stavebný zámočník
+Steward/letuška
+Stolár
+Strihač
+Strihač textilu
+Strojník
+Strojný inžinier
+Strojný zámočník
+Stylista, vizážista
+Supervízor call centra
+Sústružník
+Systémový administrátor
+Systémový inžinier
+Tanečník
+Team leader
+Technical writer
+Technický manažér
+Technický pracovník
+Technický riaditeľ
+Technik
+Technik BOZP
+Technik požiarnej ochrany
+Technológ
+Telefonický operátor
+Telemarketingový pracovník
+Tesár
+Tlačiar
+Tlmočník
+Traktorista, kombajnista
+Učiteľ
+Učiteľ materskej školy
+Účtovník
+Údržbár
+Underwriter/upisovateľ poistného rizika
+Upratovačka
+User Experience Expert
+Úverový špecialista
+Väzenský dozorca
+Vedúci dopravy
+Vedúci leasingového oddelenia
+Vedúci nákupu
+Vedúci obchodnej skupiny
+Vedúci odbytu
+Vedúci oddelenia
+Vedúci pošty
+Vedúci právneho oddelenia
+Vedúci predajne/prevádzky
+Vedúci prevádzky
+Vedúci servisu
+Vedúci skladu
+Vedúci technického oddelenia
+Vedúci údržby
+Vedúci úseku predajne
+Vedúci výroby
+Verejný zdravotník
+Veterinárny lekár
+Vodič
+Vodič autobusu
+Vodič kamiónu
+Vodič vysokozdvižného vozíka
+Vodohospodársky inžinier
+Vodohospodársky technik
+Vojak
+Vrátnik, informátor
+Vrchná sestra
+Vychovávateľ
+Výkonný riaditeľ
+Výpravca
+Výrobný riaditeľ
+Výskumný a vedecký pracovník
+Vzťahový manažér
+Web dizajnér
+Webmaster
+Záhradník
+Záhradný architekt
+Závozník
+Zberač
+Zdravotnícky asistent
+Zdravotnícky laborant
+Zdravotnícky záchranár
+Zememerač/geodet
+Žeriavnik
+Zlatník, klenotník
+Zlievač
+Zootechnik
+Zubný lekár
+Zubný technik
+Zvárač
+Zvukár
