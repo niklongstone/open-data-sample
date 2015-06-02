@@ -1,0 +1,612 @@
+Administrativní pracovník
+Advokát
+Agronom
+Animátor
+Antropolog
+Aranžér
+Archeolog
+Architekt
+Architekt filmu
+Archivář
+Artista
+Asanátor
+Asistent hygienické služby
+Astronom
+Auditor
+Aukcionář, dražebník
+Autoelektrikář
+Automechanik
+Balič
+Bankovní expert
+Bankovní pokladník
+Bankovní úvěrový pracovník
+Báňský úpravář
+Báňský záchranář
+Barman
+Barvíř textilií
+Bednář a obalář
+Betonář
+Bezpečnostní pracovník
+Bezpečnostní technik
+Bezpečnostní technik hlubinných dolů
+Biochemik
+Biochemik potravinářské výroby
+Biotechnolog
+Botanik
+Brusič kovů
+Brusič skla
+Burzovní makléř
+Bytový architekt
+Čalouník a dekoratér
+Celník
+Celulózař
+Cenový referent
+Chemický technolog
+Chemik laborant
+Chemik výzkumný pracovník
+Chemik farmaceutických výrob
+Chemik prádelen a čistíren
+Chemik tukového prům. a kosmetiky
+Chemik výroby chemických vláken
+Chemik výroby neželezných kovů
+Chemik zpracování ropy
+Chirurgický nástrojař
+Choreograf
+Chovatel drůbeže
+Chovatel hospodářských zvířat
+Chovatel koní
+Chovatel laboratorních zvířat
+Chovatel ryb
+Chovatel služebních zvířat
+Chovatel zvířat ve zvláštních zařízeních
+Číšník 
+Cukrář
+Cukrovarník
+Cukrovinkář
+Daňový specialista, daňový poradce
+Defektoskopický technik
+Detektiv
+Dětská ošetřovatelka
+Dětský lékař
+Dezinfektor
+Dietní sestra
+Dirigent
+Diskžokej
+Dispečer důlní výroby
+Dispečer rozvodu elektrické energie
+Dispečer telekomunikačního provozu
+Dlaždič
+Domovník
+Dopravní policista
+Dozorčí přepravy
+Dozorčí provozu 
+Dramaturg
+Dřevařský konstruktér
+Dřevařský normovač
+Dřevařský technolog
+Duchovní církví a náboženských institucí
+Důlní elektrikář silnoproudých zařízení
+Důlní geomechanik
+Důlní měřič
+Důlní revírník
+Důlní zámečník
+Ekolog
+Ekonom
+Elektrokeramik
+Elektromechanik
+Elektromechanik letadlových přístrojů
+Elektromechanik zabezpečovacích a sdělovacích zařízení
+Elektromontér
+Elektromontér pevných trakčních zař.železniční dopravy
+Energetik
+Ergonom
+Etnograf 
+Expedient
+Fakturant
+Farmaceut
+Farmaceutický laborant
+Figurant
+Filosof
+Finanční analytik
+Finanční referent
+Formovač keramiky a kameniny
+Fotograf
+Fotolaborant
+Fotoreportér
+Frézař
+Fyzik
+Fyzioterapeut
+Galvanizér
+Garderobiér
+Genetik
+Geodet
+Geofyzik
+Geolog
+Grafik
+Grafik audiovize
+Gumař
+Hasič
+Herec, herec s loutkou
+Historik
+Hlasatel
+Hlídač
+Hodinář
+Holič
+Horník
+Horský průvodce
+Hospodářskosprávní referent
+Hospodyně
+Hosteska
+Hostinský
+Hrázný
+Hudební režisér
+Hudebník
+Hutník neželezných kovů
+Hutník ocelář
+Hutník vysokopecař
+Hydrolog
+Informátor železniční dopravy
+Inspektor ochrany životního prostředí
+Inspektor telekomunikací
+Inspicient
+Instalatér
+Instruktor řízení dopravních prostředků
+Investiční referent
+Izolatér
+Jeřábník
+Kabelář
+Kalič
+Kameník
+Kameraman
+Kamerový mechanik
+Kamnář
+Kapitán plavidla
+Kariérní diplomat
+Kariérový poradce
+Karosář
+Kartáčník
+Kartograf
+Kaskadér
+Keramik
+Keramik modelář
+Klempíř
+Kloboučník
+Knihař
+Knihovník
+Komentátor
+Komerční právník
+Kominík
+Koncipient
+Konferenciér
+Konstruktér elektrotechnických zařízení
+Kontrolor jakosti
+Konzervář
+Konzervátor
+Kopáč
+Košíkář a pletař
+Kosmetička
+Kostymér
+Kovář
+Koželuh
+Kožišník
+Krejčí
+Krejčí scénických kostýmů a krojů
+Krupiér
+Kuchař
+Kurátor 
+Ladič pian
+Lékař
+Lektor odborných kurzů
+Lešenář
+Lesní správce
+Letecký mechanik
+Likvidátor pojistných událostí
+Lingvista
+Litograf
+Lodní strojník
+Lodník
+Malíř keramiky
+Malíř pozadí
+Malíř skla
+Manažer
+Manekýnka
+Manipulační dělník
+Masér
+Matematik pojistného
+Matrikář
+Mechanik
+Mechanik báňské záchranné služby
+Mechanik brýlové optiky
+Mechanik chladírenských zařízení
+Mechanik elektronických zařízení
+Mechanik geologicko-průzkumných zařízení
+Mechanik hudebních nástrojů
+Mechanik opravář
+Mechanik optických přístrojů
+Mechanik ortopedický
+Mechanik polygrafických strojů
+Mechanik přenosových zařízení
+Mechanik radiokomunikačních zařízení
+Mechanik spojovacích zařízení
+Mechanik výroby anglomerovaných materiálů
+Mechanik zařízení pro přenos dat
+Mechatronik
+Metalurg
+Meteorolog
+Mikrobiolog
+Mistr odborné výchovy
+Mlékař
+Mlynář
+Modelář
+Módní návrhář
+Montážník v polygrafii
+Montér anténních zařízení
+Montér antikorozní ochrany
+Montér bleskosvodů
+Montér kabelových telekomunikačních sítí
+Montér kotlář
+Montér nadzemních telekomunikačních sítí
+Montér ocelových konstrukcí
+Montér potrubář
+Montér skleněných aparatur
+Montér točivých strojů
+Montér výtahů
+Montér vzduchotechniky
+Mzdový referent
+Nádražní
+Námořník 
+Nástrojař
+Normalizační technik
+Normovač ve sklářské a keramické výrobě
+Notář
+Novinář
+Nožíř
+Obchodní zástupce
+Obchodník s realitami
+Obsluha důlních mechanismů
+Obsluha energetických zařízení
+Obsluha lesnických strojů
+Obsluha plynárenských zařízení
+Obsluha stavebních strojů
+Obsluha vodárenských zařízení
+Obsluha zařízení pro výrobu stavebních hmot
+Obuvník
+Oční optik
+Odhadce cen
+Operátor bloku
+Operátor v jaderné elektrárně
+Operátor v tabákovém průmyslu
+Operátor výpočetní techniky
+Optik
+Organizační pracovník
+Ortopedický bandážista
+Osvětlovač
+Ovocnář
+Palubní důstojník
+Palubní inženýr letadla
+Palubní průvodčí 
+Památkář
+Papírník
+Pasíř
+Pečivář
+Pečovatel
+Pedikér
+Pekař
+Personalista
+Pilot letadla
+Pivovarník a sladovník
+Plastikář
+Plavčík
+Pletař
+Podlahář
+Podnikový právník
+Pokladník v obchodě
+Pokladník železniční dopravy
+Pokojská
+Pokrývač
+Policejní inspektor
+Policejní referent
+Policejní vyšetřovatel
+Politolog
+Polygrafický technik
+Pomocný pracovník autoservisu
+Pomocný pracovník čištění města
+Pomocný pracovník geologického průzkumu
+Pomocný pracovník hotelového provozu
+Pomocný pracovník prádelen a čistíren
+Pomocný pracovník sběrných surovin
+Pomocný pracovník spalovny
+Pomocný pracovník telekomunikací
+Pomocný pracovník úpravny surovin
+Pomocný pracovník v chemii
+Pomocný pracovník v dopravě
+Pomocný pracovník v dřevařství
+Pomocný pracovník v elektroenergetice
+Pomocný pracovník v elektrotechnice
+Pomocný pracovník v gumárenské a plastikářské výrobě
+Pomocný pracovník v hutnictví a slévárenství
+Pomocný pracovník v kožařství
+Pomocný pracovník v kožišnické výrobě
+Pomocný pracovník v lesnictví
+Pomocný pracovník v lisovně
+Pomocný pracovník v obchodě
+Pomocný pracovník v obrobně
+Pomocný pracovník v obuvnické výrobě
+Pomocný pracovník v papírnictví
+Pomocný pracovník v plynárenství
+Pomocný pracovník v potravinářské výrobě
+Pomocný pracovník v textilnictví a oděvnictví
+Pomocný pracovník v tiskárně
+Pomocný pracovník v zemědělství
+Pomocný pracovník ve farmacii a zdravotnické výrobě
+Pomocný pracovník ve sklářství
+Pomocný pracovník ve stavebnictví
+Pomocný pracovník ve vodárenství
+Pomocný pracovník ve vodním hospodářství
+Pomocný pracovník ve výrobě stavebních hmot
+Pomocný pracovník železničních přepravišť
+Pomocný pracovník zpracování ropy
+Poříčný
+Porybný
+Poštmistr
+Poštovní doručovatel
+Posunovač
+Potápěč
+Potravinářský technolog
+Potrubář
+Požární rada
+Pracovník bankovních služeb klientům
+Pracovník devizových obchodů
+Pracovník kapitálových obchodů
+Pracovník lázní
+Pracovník odbavovací haly
+Pracovník on line služeb
+Pracovník pohřební služby
+Pracovník poštovní přepážky
+Pracovník poštovní přepravy
+Pracovník pr
+Pracovník systému platebních karet
+Pracovník veřejných služeb
+Pracovník vnitřní poštovní služby
+Přadlák
+Práškový metalurg
+Překližkář
+Prodavač
+Producent
+Produkční výstav
+Programátor multimediálních produktů
+Programátor výpočetních systémů
+Projektant elektrotechn. a energetických systémů
+Projektant-analytik počít.systémů
+Promítač
+Propagační referent
+Protiprašný technik
+Provozář obchodní, ubytovací nebo stravovací jednotky
+Provozní chemik
+Provozní elektrikář silnoproudých zařízení
+Provozní montér plynovodů
+Provozní technik
+Provozní zámečník
+Průvodce cestovního ruchu
+Průvodce v památkových objektech
+Průvodčí vlaků
+Prýmkař
+Psycholog
+Psychoterapeut
+Puškař
+Radiodůstojník
+Radiologický laborant
+Recepční a informátor v organizaci
+Recepční v hotelu
+Redaktor 
+Referent marketingu
+Referent pojišťovny
+Referent státní správy
+Referent železniční dopravy
+Rekvizitář
+Reprodukční fotograf
+Restaurátor děl malířských, sochařských a jiných
+Restaurátor uměleckořemeslných předmětů
+Retušér
+Revírník
+Revizní technik pro elektrotechnická zařízení
+Revizní technik pro plynárenství
+Revizní technik pro strojní zařízení
+Režisér
+Řezník a uzenář
+Řidič lanových drah
+Řidič motorových vozíků
+Řidič silničních motorových vozidel
+Řidič tramvaje
+Řídící letového provozu
+Ruchař
+Ruční krajkářka
+Ruční tkadlec
+Ruční vyšívačka
+Rytec kovů
+Rytec skla
+Sanitář
+Šatnář
+Sazeč
+Sbormistr
+Scénárista
+Scénograf
+Sekretářka, asistentka
+Seřizovač
+Šička
+Šička kožichů
+Skladatel
+Skladník
+Skladový referent
+Sklář
+Sklenář
+Školní inspektor
+Školník
+Slévač
+Smaltér
+Směnárník
+Směnový inženýr v elektrárně
+Snímač triků
+Sochař
+Sociální pracovník
+Sociolog
+Soudce
+Soudní vykonavatel
+Soustružník kovů
+Specialista na výživu
+Speciální pedagog
+Sportovec
+Správce aplikací
+Správce památkových objektů 
+Správce sítě
+Správce toků
+Statik
+Statistik
+Státní zástupce
+Stavbyvedoucí
+Stavební elektrikář
+Stavební klempíř
+Stavební montážník
+Stavební projektant
+Stavební truhlář
+Stavební zámečník
+Stavěč dekorací
+Strážník obecní policie
+Strážný
+Střelmistr
+Stříhač audiovize
+Strojírenský konstruktér
+Strojírenský normovač
+Strojírenský technolog
+Strojní výrobce skleněné bižuterie
+Strojní zámečník
+Strojník čištění kanalizačních sítí
+Strojník sklářských zařízení
+Strojník úpravy plodin
+Strojník výroby krmiv
+Strojvedoucí
+Studnař
+Svářeč kovů
+Systémový inženýr
+Taneční pedagog
+Tanečník
+Tavič
+Tavič skloviny
+Tažeč
+Technický redaktor
+Technik důlní degazace a klimatizace
+Technik informačních technologií
+Technik požární techniky
+Technik přenosových zařízení
+Technik silniční dopravy
+Technik telekomunikací
+Technik telekomunikačních sítí
+Technik těžby dřeva
+Technik trhacích prací
+Technik větrání dolu
+Technolog ve sklářské a keramické výrobě
+Technolog výroby stavebních materiálů
+Telefonista
+Teoretik a historik umění
+Tesař
+Textař
+Textilní normovač
+Textilní technolog
+Tiskař
+Tiskař textilií
+Tiskový mluvčí
+Tkadlec
+Tlumočník a překladatel
+Topenář
+Topič
+Traktorista
+Tranzitéř
+Traťový dělník
+Traťový strojník
+Trenér
+Truhlář
+Tunelář
+Tvůrce multimediálních produktů
+Účetní
+Učitel mateřské školy
+Učitel střední školy
+Učitel vysoké školy
+Učitel základní školy
+Uklízeč
+Umělecký agent
+Umělecký čalouník a dekoratér
+Umělecký fotograf
+Umělecký kameník
+Umělecký keramik
+Umělecký kovář a zámečník
+Umělecký kovolijec a cizelér
+Umělecký leptař skla
+Umělecký malíř
+Umělecký mozaikář
+Umělecký pasíř
+Umělecký pozlacovač
+Umělecký řezbář
+Umělecký sklář
+Umělecký sklenář a vitrážista
+Umělecký štukatér a kašér
+Umělecký truhlář
+Urbanista
+Úředník cestovní kanceláře
+Valcíř kovů
+Včelař
+Velitel letadla
+Veterinární lékař
+Veterinární technik
+Vinař
+Vinohradník
+Vizážista
+Vlakvedoucí
+Vodohospodářský dispečer
+Voják z povolání
+Vozmistr
+Vrátný
+Vrtač
+Vrtař
+Vulkanizér
+Vychovatel
+Výpravčí
+Výrobce dřevařských polotovarů
+Výrobce koženého zboží
+Výrobce netkaných textilií
+Výrobce umělých květin
+Výrobní dispečer v chemickém průmyslu
+Výrobní dispečer v potravinářství
+Výrobní dispečer v textilním průmyslu
+Výrobní dispečer ve dřevařství
+Výrobní dispečer ve sklářském a keramickém průmyslu
+Výrobní dispečer ve strojírenství
+Výškový specialista
+Výtvarník výrobků
+Zahradní architekt
+Zahradník
+Zámečník kolejových konstrukcí
+Zámečník kolejových vozidel
+Zámečník montér
+Zámečník zemědělských strojů
+Zásobovač
+Zastavárník
+Závozník
+Zdravotní laborant
+Zdravotní sestra
+Zdravotnický záchranář
+Zedník
+Železničář
+Zemědělec
+Získatel pojištění
+Zlatník a klenotník
+Zlatotepec
+Značkař
+Zootechnik
+Zpěvák
+Zprostředkovatel práce
+Zubní instrumentářka
+Zubní lékař
+Zubní technik 
+Zušlechťovač kovů
+Zušlechťovač textilií
+Zvukař
