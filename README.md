@@ -1,6 +1,6 @@
-The Open Data Sample project, wants to provide several sample data in an organized way.  
-It's composed by several text/plain files with new line separated data in different languages.  
-The project follows some specification standards to assure the overall quality. 
+The Open Data Sample project wants to provide different sample data in an organized way.
+It's composed by several text/plain files with newline separated data in many languages.
+The project follows some specification standards to assure the overall quality.
 
 ####Standards:
  - The file name must be lowercase;
