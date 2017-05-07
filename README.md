@@ -4,7 +4,7 @@ The Open Data Sample project wants to provide various sample data in an organize
 The project includes several text/plain files with data in many languages.
 The project follows some specification standards to assure the overall quality.
 
-####Standards:
+#### Standards:
  - The file name must be lowercase;
  - the file must be a plain text file with .txt extension;
  - every row in the file must be separated by new line;
@@ -14,9 +14,9 @@ The project follows some specification standards to assure the overall quality.
    
  ([language subtag registry](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry))
 
-####Licence:
+#### Licence:
 It's released under the [Open Data Commons Open Database License v1.0](http://opendatacommons.org/licenses/odbl/1.0/)
-####Contribution:
+#### Contribution:
 Contributions are very welcome.  
 The project has some tools to simplify the file creation:
  - check (bin/check dataFolder) validates the standard rules.
