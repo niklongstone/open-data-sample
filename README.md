@@ -19,7 +19,7 @@ It's released under the [Open Data Commons Open Database License v1.0](http://op
 #### Contribution:
 Contributions are very welcome but, there are some rules:
 
-1. Please don't submit data which can be easily created by most of the programming languages (i.e. day of the week, numbers, dates, ...).
+1. Don't submit data which can be easily created by most of the programming languages (i.e. day of the week, numbers, dates, ...).
 2. Make one pull request for data type. For instance, if you want to add cities and animals please make 2 pull requests.
 3. Keep one word per row.
 4. Valid character are letters of the alphabet and new lines. 
