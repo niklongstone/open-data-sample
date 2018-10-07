@@ -31,7 +31,6 @@ Broker informacji
 Broker ubezpieczeniowy
 Budnicy
 Certyfikator energetyczny
-Cervesario
 Charakteryzator
 Chief marketing officer
 Chief security officer
@@ -47,7 +46,6 @@ Doradca inwestycyjny
 Doradca podatkowy w Polsce
 Doradca restrukturyzacyjny
 Doradca ubezpieczeniowy
-Doula
 Dragoman
 Drwal
 Dyplomata
@@ -64,7 +62,6 @@ Fasowacz
 Finansista
 Flisak pieniński
 Fotoreporter
-Freelancer
 Gabaj
 Gaucho
 Gazeciarz
@@ -78,8 +75,6 @@ Górnik
 Grabarz
 Groomer
 Handlarz
-Headhunter
-Home staging
 Hutnik
 Hycel
 Hydraulik
@@ -167,7 +162,6 @@ Portier
 Pośrednik finansowy
 Pośrednik ubezpieczeniowy
 Pośrednik w obrocie nieruchomościami
-Pracownicy uczelni w Polsce
 Pracownik socjalny
 Prezenter
 Projektant gier komputerowych
