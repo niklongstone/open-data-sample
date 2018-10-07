@@ -17,8 +17,15 @@ The project follows some specification standards to assure the overall quality.
 #### Licence:
 It's released under the [Open Data Commons Open Database License v1.0](http://opendatacommons.org/licenses/odbl/1.0/)
 #### Contribution:
-Contributions are very welcome.  
-Please don't submit data which can be easily created by most of the programming languages (i.e. day of the week, numbers, dates, ...).
+Contributions are very welcome but, there are some rules:
+
+1. Please don't submit data which can be easily created by most of the programming languages (i.e. day of the week, numbers, dates, ...).
+2. Make one pull request for data type. For instance, if you want to add cities and animals please make 2 pull requests.
+3. Keep one word per row.
+4. Valid character are letters of the alphabet and new lines. 
+5. Don't use synonyms or words which are almost equivalent (i.e. cat, kitten).
+6. Submit as much data as you can. A submissions with less than 20 rows could be declined. 
+7. Avoid the use of headers in the files. For instance, the first row of a city file cannot be "cities".
 
 The project has some tools to simplify the file creation:
  - check (bin/check dataFolder) validates the standard rules.
