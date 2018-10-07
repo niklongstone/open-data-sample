@@ -18,6 +18,8 @@ The project follows some specification standards to assure the overall quality.
 It's released under the [Open Data Commons Open Database License v1.0](http://opendatacommons.org/licenses/odbl/1.0/)
 #### Contribution:
 Contributions are very welcome.  
+Please don't submit data which can be easily created by most of the programming languages (i.e. day of the week, numbers, dates, ...).
+
 The project has some tools to simplify the file creation:
  - check (bin/check dataFolder) validates the standard rules.
  - sort (bin/sort filename.txt) outputs an alphabetically sorted list without duplications.
